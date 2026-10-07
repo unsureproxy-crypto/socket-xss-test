@@ -1,3 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg">
+  <script>alert("XSS-TEST")</script>
   <text x="10" y="30">SVG TEST</text>
 </svg>
